@@ -1,0 +1,33 @@
+{
+  "originHash" : "891d999bc043ec20d9035f70c424b229d9cfb2bb11ae2b3e7758544673ecc228",
+  "pins" : [
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "678d442c6f7828def400a70ae15968aef67ef52d",
+        "version" : "1.8.3"
+      }
+    },
+    {
+      "identity" : "ed25519swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pebble8888/ed25519swift.git",
+      "state" : {
+        "revision" : "1e821f5516049f5b83aca8cb3b982910cf8c028c",
+        "version" : "1.2.8"
+      }
+    },
+    {
+      "identity" : "sentry-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getsentry/sentry-cocoa.git",
+      "state" : {
+        "revision" : "56bfb7e723c76614be4c0861ee820ccbaed14c6d",
+        "version" : "8.41.0"
+      }
+    }
+  ],
+  "version" : 3
+}

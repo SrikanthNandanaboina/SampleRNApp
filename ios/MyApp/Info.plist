@@ -46,6 +46,33 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key> NSFaceIDUsageDescription </key>
+	<string> For security of user data we need to authenticate user with face-id </string>
+
+	<key>NSCameraUsageDescription</key>
+	<string>For VKYC Verification</string>
+
+	<key>NSMicrophoneUsageDescription</key>
+	<string>For VKYC Verification</string>
+
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>cydia</string>
+		<string>amazonpay</string>
+		<string>jupiter</string>
+		<string>bhim</string>
+		<string>credpay</string>
+		<string>tez</string>
+		<string>gpay</string>
+		<string>phonepe</string>
+		<string>paytm</string>
+		<string>paytmmp</string>
+		<string>bhim</string>
+		<string>upi</string>
+		<string>lotza</string>
+		<string>mobikwik</string>
+		<string>whatsapp</string>
+	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
